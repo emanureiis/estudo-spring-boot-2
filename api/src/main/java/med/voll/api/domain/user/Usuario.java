@@ -19,5 +19,4 @@ public class Usuario {
     Long id;
     String login;
     String senha;
-
 }
